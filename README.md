@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @aakarshitsahay01
 - 👀 I’m interested in the field "DATA SCIENCE"
-- 🌱 I’m currently learning Web Scapping API
+- 🌱 I’m currently pursuing B.E in CSE @Sathyabama Institute of Science and Technology
+- 
